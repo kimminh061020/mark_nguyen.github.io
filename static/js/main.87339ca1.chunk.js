@@ -1,0 +1,2 @@
+(this["webpackJsonpmark_nguyen.github.io"]=this["webpackJsonpmark_nguyen.github.io"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var r=t(1),c=t.n(r),i=t(3),o=t.n(i),s=t(0);var a=function(){return Object(s.jsx)("div",{className:"app",children:"Hello, World!"})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.87339ca1.chunk.js.map
